@@ -1,0 +1,14 @@
+Aplicatia Stack Overflow:
+Este un site web de intrebari si raspunsuri din domeniul programarii.("Wikipedia")
+
+Dupa cum spune si descrierea de pe Wikipedia, acest site este destinat programatorilor si intrebarilor acestora.
+Ideea principala a aplicatiei este de a rezolva orice problema intr-un timp foarte scurt. 
+Ca si programator intampini noutati, orice noutate intalnita o cauti pe internet. S-a venit cu solutia de a se crea aceasta aplicatie unde se gasesc cele mai uzuale intrebari si se pot pune intrebari noi.
+O alta functionalitate a aplicatiei este aceea de a gasi joburi potrivite profilului tau. Fiecare job detine informatii importante: descrierea acestuia, tipul jobului, experienta ceruta, industria din care face parte si rolul pentru care aplici. Aplicatia la job este usoara, se cer urmatoarele informatii: numele, locatia, adresa de email, numarul de telefon, CV-ul si o scurta descriere a personalitatii tale, importante in alegerea candidatului ideal. 
+In aceasta aplicatie poti gasi mai multe informatii despre marile companii de IT ale lumii.
+
+Sa ne intoarcem la limbajele de programare, care trebuie sa fie bine stiute pentru a putea fi angajat sau pentru a promova. In sectiunea "tags" se gasesc toate limbajele de programare si in momentul in care selectezi un limbaj de programare, gasesti cele mai uzuale probleme intalnite la acel limbaj si raspunsuri date in prealabil pentru a te invata mai multe lucruri despre acel limbaj.
+
+In cadrul aplicatiei iti poti crea propriul profil, iti poti vedea activitatea(intrebarile pe care le-ai pus, precum si intrebarile la care ai raspuns). 
+
+Acestea au fost o parte din functionalitatile aplicatiei, care din considerentul meu au fost cele mai importante.
